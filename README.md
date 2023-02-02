@@ -19,7 +19,7 @@ I decided to code it this way because it provides a simple, straightforward impl
 ## Instructions to follow
 
 ```sh
-1)git clone https://github.com/anujababy1/student-management-system.git
+1)git clone https://github.com/anujababy1/simple-in-memory-database.git
 2)git fetch origin
 3)git checkout main
 4)Open index.html file in the browser and view the output on the browser console.
